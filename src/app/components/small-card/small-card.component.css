@@ -6,7 +6,7 @@
 
 .container__small-card-content{
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
 
 }
 
