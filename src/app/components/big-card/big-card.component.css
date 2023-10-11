@@ -1,9 +1,10 @@
 .container__big-card{
-  border: solid white 2px;
-  margin-left: 10px;
-  margin-right: 10px;
-  width: 679px;
-  height: 700px;
+
+  margin-left: 20px;
+  margin-right: 20px;
+
+  width: 400px;
+  height: 500px;
 
   display: flex;
   flex-direction: column;
@@ -22,7 +23,7 @@
   margin-top: 20px;
 }
 
-.big-card__description > p {
+.big-card__description > p > a {
   color: rgb(61, 60, 60);
 }
 
